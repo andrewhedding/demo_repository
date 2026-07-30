@@ -28,3 +28,46 @@
     max-width: 100%;
   }
 }
+
+// ==========================================================================
+// Compact row-style Browse page cards
+// Converts the default card grid into a compact list of rows -- appropriate
+// for a collection where every item is an audio file (no meaningful image).
+// ==========================================================================
+
+#browseItems {
+  // each item's column wrapper: force full width so items stack as rows
+  // instead of sitting in a multi-column grid
+  > [class*="col-"] {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .card {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  // the waveform/page icon thumbnail -- shrink and pin to a fixed small size
+  .card-img-top {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .card-body {
+    padding: 0.5rem 1rem;
+  }
+
+  // tighten up heading/text spacing so a row stays compact
+  .card-title {
+    margin-bottom: 0.25rem;
+    font-size: 1.1rem;
+  }
+
+  .card-text {
+    margin-bottom: 0.25rem;
+  }
+}
