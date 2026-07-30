@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
+title,Headword,,,DCTERMS.title,headline
+orthography,Orthography (no tone),,,,
+ipa,IPA Transcription,,,,
+part_of_speech,Part of Speech,true,,,
+semantic_domain,Semantic Domain,true,,,
+tone_melody,Tone Melody,true,,,
+syllable_structure,Syllable Structure,,,,
+phonation_type,Phonation Type,true,,,
+english,English,,,DCTERMS.description,description
+spanish,Spanish,,,,
+speaker,Speaker,true,,,
+notes,Notes,,,,
 format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license

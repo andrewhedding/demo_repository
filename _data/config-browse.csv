@@ -1,7 +1,10 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
-description,,,true,
-creator,Creator,,,
-subject,,true
-location,,true,,,Location Depicted
-identifier,,,true,Identifier
+orthography_tone,Headword,,,Headword,
+ipa,IPA,,true,,
+part_of_speech,Part of Speech,true,,,
+semantic_domain,Semantic Domain,true,,,
+english,English Gloss,,,,
+spanish,Spanish Gloss,,true,,
+phonation_type,Phonation,true,,,
+tone_melody,Tone Melody,,true,,Tone Melody
+speaker,Speaker,,true,,Speaker
