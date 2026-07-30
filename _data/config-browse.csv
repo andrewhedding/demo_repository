@@ -3,8 +3,5 @@ orthography_tone,Headword,,,Headword,
 ipa,IPA,,true,,
 part_of_speech,Part of Speech,true,,,
 semantic_domain,Semantic Domain,true,,,
-english,English Gloss,,,,
-spanish,Spanish Gloss,,true,,
-phonation_type,Phonation,true,,,
-tone_melody,Tone Melody,,true,,Tone Melody
+spanish,Spanish Gloss,,,,
 speaker,Speaker,,true,,Speaker
