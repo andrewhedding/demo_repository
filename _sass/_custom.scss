@@ -2,3 +2,29 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+// Compact row-style browse cards for audio-only entries
+#cb-browse-grid,
+.browse-grid {
+  .card {
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .card-img-top {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .card-body {
+    padding: 0.5rem 1rem;
+  }
+
+  // force one entry per row instead of a multi-column grid
+  > [class*="col-"] {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
