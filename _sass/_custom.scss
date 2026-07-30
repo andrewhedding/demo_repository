@@ -87,3 +87,20 @@
     display: none;
   }
 }
+
+
+// ==========================================================================
+// Whole-card click target + inline audio play button
+// (Add this alongside the v3 compact-row block -- don't replace it.)
+// ==========================================================================
+
+#browseItems {
+  .card {
+    position: relative; // required for Bootstrap's stretched-link to work
+  }
+
+  .play-audio-btn {
+    position: relative;
+    z-index: 2; // sits above the stretched-link so it stays independently clickable
+  }
+}
