@@ -37,11 +37,11 @@ ijin-02,ìjǐn,fussy,ijin,ìjǐn,[ìʰǐn],adjective,descriptions,LR,VhVC,
 ijyo-01,ìjyo,fearful,ijyo,ìjyo,[ìʰjo],verb (potential),states of being,LM,VhCV,aspirated,fearful,miedoso,NGC,,objects/miedoso.wav,audio/wav,audio
 ikin-01,ikǐn,pumpkin/squash,ikin,ikǐn,[iʰkĩ̌],noun,"food, drink, and cooking",MR,VhCV,pre-aspirated,pumpkin/squash,calabaza,NGC,,objects/calabaza_2.wav,audio/wav,audio
 ijma-01,ìjmǎ,wax,ijma,ìjmǎ,[ìʰmã̌],noun,natural objects (non-living),LR,VhCV,aspirated,wax,cera,NGC,,objects/cera.wav,audio/wav,audio
-ijma-nujnu-01,ìjmǎ ñùjñǔ,beeswax,ijma ñujñu,ìjmǎ ñùjñǔ,[ìʰmã̌ ɲũ̌ʰɲũ̌],noun,tools and implements,LR LR,VhCV CVhCV,aspirated,beeswax,cera de abeja,RDC,,,,
+ijma-nujnu-01,ìjmǎ ñùjñǔ,beeswax,ijma ñujñu,ìjmǎ ñùjñǔ,[ìʰmã̌ ɲũ̌ʰɲũ̌],noun,tools and implements,LR LR,VhCV CVhCV,aspirated,beeswax,cera de abeja,RDC,[unresolved media reference: 'cera_de_abeja'],,,
 ijma-tutyo-ma-01,ìjmǎ tùtyo'má,tùcho'má tree wax ,ijma tutyo'ma,ìjmǎ tùtyo'má,[ìʰmã̌ tùt͡ʃòˀmã́],noun,plants and trees,LR LLH,VCV CVCV?CV,multiple word types,tùcho'má tree wax ,cera del árbol tucho'ma,RDC,BE stopped here 7/27; tòchò'má is 'snow Croton',objects/cera_de_tucho'ma.wav,audio/wav,audio
 ijma-xa-an-01,ìjmǎ xǎ'àn,tallow candle,ijma xa'an,ìjmǎ xǎ'àn,[ìʰmǎ ʃǎˀã̀],noun,tools and implements,LR RL,VhCV CV?V,multiple word types,tallow candle,veladora cebosa (viene de la planta grilla),RDC,,,,
 iyo-01,íyo,exist,iyo,íyo,[íjo],verb (continuative),states of being,HM,,,exist,existir,,singular continuative,,,
-ijun-01,ijǔn,your body,ijun,ijǔn,[iʰũ̌],noun,body parts and the body,MR,VhV,aspirated,your body,tu cuerpo,LA,Said,,,
+ijun-01,ijǔn,your body,ijun,ijǔn,[iʰũ̌],noun,body parts and the body,MR,VhV,aspirated,your body,tu cuerpo,LA,Said [unresolved media reference: 'tu_cuerpo'],,,
 ijyo-02,ìjyo,fearful,ijyo,ìjyo,[ìʰjo],adjective,states of being,LM,VhCV,pre-aspirated,fearful,temeroso,,duplicate,,,
 iki-ka-a-01,iki ka'à,spine,iki ka'a,iki ka'à,[iki kaˀà],noun,body parts and the body,MM ML,VCV CV?C,glottalized,spine,columna (vertebral),NGC,,objects/columna_(vertebral).wav,audio/wav,audio
 iki-kintsika-01,ikǐ kintsika,rib,iki kintsika,ikǐ kintsika,[ikǐ kʲⁿt͡sʲka],noun,body parts and the body,MR M,,,rib,costilla,,,,,
@@ -82,7 +82,7 @@ ita-ntsiikantsiiji-01,ita ntsiikantsiiji,sunflower,ita ntsiikantsiiji,,[ita tsʲ
 ita-ntu-u-01,ītà ntū'ú,spineless yucca,ita ntu'u,ītà ntū'ú,[ītà ⁿtūˀú],noun,plants and trees,ML MH,VCV CV?V,multiple word types,spineless yucca,flor de izote,JGO,,,,
 ita-rosa-ntuxa-01,ita rosa ntuxa,a small rose of strong color,ita rosa ntuxa,,[ita rosa ⁿtuʃa],noun,plants and trees,,VCV CVCV CVCV,modal,a small rose of strong color,rosita caliente,NGC,https://youtu.be/WetShLb64Mg?si=yCVV3nxuFXqewA6x&t=175 2:55-2:57,,,
 ita-rosa-xi-i-01,ita rosa xi'i,a light rose,ita rosa xi'i,,[ita rosa ʃiˀi],noun,plants and trees,,VCV CVCV CV?V,glottalized,a light rose,rosa clara,NGC,https://youtu.be/WetShLb64Mg?si=gOWWkJeJqUwOJQLx&t=183 3:03-3:05,,,
-ita-sanin-01,ita sanin,unknown flower,ita sanin,,[ita sanĩ],,,,,modal,unknown flower,no se sabe en español,NGC,,https://youtu.be/vSnUpiQcp0s?si=SadPGT_WM1y0xPl-&t=822 13:42-13:43,text/html,record
+ita-sanin-01,ita sanin,unknown flower,ita sanin,,[ita sanĩ],,,,,modal,unknown flower,no se sabe en español,NGC,[media cell had extra text: '13:42-13:43'],https://youtu.be/vSnUpiQcp0s?si=SadPGT_WM1y0xPl-&t=822,text/html,record
 ita-ya-a-01,ita ya'a,orange flower,ita ya'a,,[ita jaˀa],noun,plants and trees,,VCV CV?V,glottalized,orange flower,flor anaranjada,NGC,https://youtu.be/WetShLb64Mg?si=YFzaLvsl-w7lmTHl&t=161 2:41-2:42,objects/flor_anaranjada.wav,audio/wav,audio
 ita-yaa-01,ita yaa,white flower,ita yaa,,[ita jaa] ,noun,plants and trees,,VCV CVV,modal,white flower,flor blanca,NGC,https://youtu.be/WetShLb64Mg?si=Fcb8uMDSMITkIQeY&t=463 7:43-7:44,objects/flor_blanca.wav,audio/wav,audio
 ita-nu-01,íta'nu,cross ,ita'nu,íta'nu,[ítaˀnu],verb (continuative),Actions and activities,HMM,VCV?CV,glottalized,cross ,cruzar ,,,,,
@@ -305,7 +305,7 @@ konti-01,kòntì,my knee,konti,kòntì,[kòⁿtì],noun,body parts and the body,
 konto-01,kòntò,knee,konto,kòntò,[kòⁿtò],noun,body parts and the body,LL,CVCV,modal,knee,rodilla,NGC,,objects/rodilla.wav,audio/wav,audio
 konto-nta-a-01,kòntò nta'ǎ,elbow,konto nta'a,kòntò nta'ǎ,[kòⁿtò ⁿtaˀǎ],noun,body parts and the body,LLMR,CVCV CV?V,glottalized,elbow,codo,,,objects/codo.wav,audio/wav,audio
 konto-tsi-in-01,kontò tsí'in,wart,konto tsi'in,kontò tsí'in,[koⁿtò t͡síˀĩ],,,ML HM,CVCV CV?V,glottalized,wart,verruga,RDC,,objects/verruga.wav,audio/wav,audio
-kontun-01,kòntǔn,your knee,kontun,kòntǔn,[kòⁿtũ̌],noun,body parts and the body,LR,CVCV,modal,your knee,tu rodilla,NGC,,objects/tu _rodilla.wav,audio/wav,audio
+kontun-01,kòntǔn,your knee,kontun,kòntǔn,[kòⁿtũ̌],noun,body parts and the body,LR,CVCV,modal,your knee,tu rodilla,NGC,"[check filename: 'tu _rodilla.wav' has a stray space -- confirm actual audio filename matches, likely should be 'tu_rodilla.wav']",objects/tu _rodilla.wav,audio/wav,audio
 konu-01,kónù,deep,konu,kónù,[kónù],adjective,descriptions,H,CVCV,modal,deep,profundo,,,,,
 konu-02,koñû,dried meat,koñu,koñû,[kōɲû],noun,"food, drink, and cooking",MF,CVCV,modal,dried meat,carne seca,NGC,,objects/carneseca.wav,audio/wav,audio
 koo-02,koo,welcome,koo,koo,[kōō],interjection,greetings and polite expressions,MM,CVV,modal,welcome,bienvenido,,,objects/bienvenido.wav,audio/wav,audio
@@ -459,11 +459,11 @@ leke-01,leke,malnourished,leke,leke,[lēkē],adjective,descriptions,MM,CVCV,mo
 lelo-01,lélo,skunk,lelo,lélo,[lélo],noun,wild animals,HM,CVCV,modal,skunk,zorrillo,,,objects/zorillo.wav,audio/wav,audio
 lenko-01,lenko,lame,lenko,lenko,[lēŋkō],adjective,descriptions,MM,CVCCV,modal,lame,cojo,,,,,
 leso-01,leso,rabbit,leso,leso,[lēʰsō],noun,wild animals,MM,CVhCV,pre-aspirated,rabbit,conejo,,,objects/conejo.wav,audio/wav,audio
-limo-kuaan-01,līmó kuáàn,lemon,limo kuaan,līmó kuáàn,[līmó kʷã́ã̀],noun,"food, drink, and cooking",MH HL,CVCV CVV,modal,lemon,limón amarillo,NGC,loan word?,https://limón_amarillo.wav https://youtu.be/vSnUpiQcp0s?si=BY2fJBojiUOu__df&t=231 2:51-2:53,text/html,record
+limo-kuaan-01,līmó kuáàn,lemon,limo kuaan,līmó kuáàn,[līmó kʷã́ã̀],noun,"food, drink, and cooking",MH HL,CVCV CVV,modal,lemon,limón amarillo,NGC,loan word? [media cell had extra text: 'limón_amarillo.wav  2:51-2:53'],https://youtu.be/vSnUpiQcp0s?si=BY2fJBojiUOu__df&t=231,text/html,record
 limo-kuiji-01,līmó kuîjǐ,lime,limo kuiji,līmó kuîjǐ,[līmó kʷîʰǐ],noun,"food, drink, and cooking",MH FR,CVCV CVhV,aspirated,lime,limón verde,NGC,,objects/limón_verde.wav,audio/wav,audio
 linko-01,linko,bud of the flower of the maguey cactus,linko,linko,[līᵑkō],noun,plants and trees,MM,CVCV,modal,bud of the flower of the maguey cactus,capullo de maguey,,,objects/capullo_de_maguey.wav,audio/wav,audio
 linko-02,línko,fruit of maguey cactus,linko,línko,[líᵑko],noun,plants and trees,HM,CVCV,modal,fruit of maguey cactus,fruta de maguey,,,objects/fruta_de_maguey.wav,audio/wav,audio
-lis-ton-01,lis ton,ribbon,lis ton,,[lis ton] ??,noun,clothing and cloth objects,,CVC CVC,modal,ribbon,listón,NGC,                                                    ,objects/listón.wav,audio/wav,audio
+lis-ton-01,lis ton,ribbon,lis ton,,[lis ton] ??,noun,clothing and cloth objects,,CVC CVC,modal,ribbon,listón,NGC,,objects/listón.wav,audio/wav,audio
 lo-o-01,lo'o,small (sg),lo'o,lo'o,[lōˀō],adjective,descriptions,MM,CV?V,glottalized,small (sg),chico/ pequeño,,,,,
 lona-01,lonà,multicolored,lona,lonà,[lōnà],adjective,descriptions,ML,CVCV,modal,multicolored,multicolor,,,,,
 loro-01,lórò,big parakeet,loro,lórò,[lórò],noun,wild animals,HL,CVCV,modal,big parakeet,perico grande,JGO,,,,
@@ -601,7 +601,7 @@ nika-an-01,nìkà'àn,speak ,nika'an,nìkà'àn,[nìkàˀã̀],verb (co
 nikava-01,nìkàvà,to bend ,nikava,nìkàvà,[nìkàβà],verb (completive),Actions and activities,LLL,CVCVCV,modal,to bend ,doblarse  (una barrilla),NGC,,objects/doblarse_(comp)_3.wav,audio/wav,audio
 ninta-yi-01,nìntà'yǐ,cry ,ninta'yi,nìntà'yǐ,[nìⁿtàˀjǐ],verb (completive),Actions and activities,LLR,CVCV?CV,glottalized,cry ,llorar ,,,,,
 nintsiku-01,nìntsìkù,chase ,nintsìku,nìntsìkù,[nìⁿt͡sìkù],verb (completive),Actions and activities,LLL,CVCCC,modal,chase ,perseguir ,,,,,
-ninu-01,ninũ,low (altitude),ninu,ninũ,[ninũ],adjective,landscape and environment,MM,CVCV,modal,low (altitude),bajo (altitud) ,,,,,
+ninu-01,ninũ,low (altitude),ninu,ninũ,[ninũ],adjective,landscape and environment,MM,CVCV,modal,low (altitude),bajo (altitud) ,,,objects/bajo_(altitud).wav,audio/wav,audio
 nita-vi-01,nìtà'vǐ,to shatter ,nita'vi,nìtà'vǐ,[nìtàˀβǐ],verb (completive),Actions and activities,LLR,CVCV?CV,glottalized,to shatter ,romperse ,NGC,,objects/romperse_(comp).wav,audio/wav,audio
 nitajan-01,nìtàjan,earthquake ,nitajan,nìtàjan,[nìtàʰã],verb (potential),landscape and environment,LLM,CVCVhV,aspirated,earthquake ,terremoto,,,,,
 nitaxin-01,nitaxin,ground,nìtaxin,nitaxin,[nìtàʃĩ],adjective,"food, drink, and cooking",LL,CVCVCV,modal,ground,molido,,,objects/molido.wav,audio/wav,audio
@@ -989,7 +989,7 @@ taja-01,tàjâ,shaking,taja,tàjâ,[tàʰâ],noun,landscape and environmen
 tajan-01,tájan,earthquake ,tajan,tájan,[táʰã],verb (continuative),landscape and environment,HM,CVhV,aspirated,earthquake ,terremoto,,,,,
 tajan-02,tàjan,earthquake ,tajan,tàjan,[tàʰã],verb (completive),landscape and environment,LM,CVhV,aspirated,earthquake ,terremoto,,,,,
 tati-01,tátì,my dad,tati,tátì,[táʰtì],noun,kin terms,HL,CVhCV,pre-aspirated,my dad,mi papá,,,objects/mi_papá.wav,audio/wav,audio
-takayo-kwa-01,takayo'kwa,something as an example,takayo'kwa,,[takajoˀkʷa],noun,tools and implements,,CVCVCV?CV,glottalized,something as an example,una cosa de ejemplo,NGC, ,,,
+takayo-kwa-01,takayo'kwa,something as an example,takayo'kwa,,[takajoˀkʷa],noun,tools and implements,,CVCVCV?CV,glottalized,something as an example,una cosa de ejemplo,NGC,,,,
 takue-e-01,tàkuè'è,injure ,takue'e,tàkuè'è,[tàkʷèˀè],verb (completive),Actions and activities,LLL,CVCV?V,glottalized,injure ,herir ,,,,,
 takue-e-02,tákuè'è,injure ,takue'e,tákuè'è,[tákʷèˀè],verb (continuative),Actions and activities,HLL,CVCV?V,glottalized,injure ,herir ,,,,,
 takue-e-03,takuè'è,injure ,takue'e,takuè'è,[takʷèˀè],verb (potential),Actions and activities,MLL,CVCV?V,glottalized,injure ,herir ,,,,,
@@ -1073,7 +1073,7 @@ tsiikuxi-itun-01,tsiìkūxí itǔn,edible worm,tsiikuxi itun,tsiìkūxí itǔn,[
 tsiin-01,tsìin,grab/drive ,tsiin,tsìin,[t͡sʲ̀ĩ],verb (completive),Actions and activities,LM,CV,modal,grab/drive ,llevar ,,,,,
 tsiin-02,tsíin,grab/drive ,tsiin,tsíin,[t͡sʲ́ĩ],verb (continuative),Actions and activities,HM,CV,modal,grab/drive ,llevar ,,,,,
 tsiin-03,tsiin,grab/drive ,tsiin,tsiin,[t͡sʲĩ],verb (potential),Actions and activities,MM,CV,modal,grab/drive ,llevar ,,,,,
-tsiin-04,tsìín,mouse,tsìín,tsìín,,noun,wild animals,,CVV,modal,mouse,ratón,RDC,Said,,,
+tsiin-04,tsìín,mouse,tsìín,tsìín,,noun,wild animals,,CVV,modal,mouse,ratón,RDC,Said [unresolved media reference: '???'],,,
 tsiin-na-nu-01,tsìín ná'nù,rat 1,tsiin na'nu,tsìín ná'nù,[t͡sìĩ́ náˀnù],,,LH HL,CVV CV?CV,glottalized,rat 1,rata 1,RDC,,objects/rata_1.wav,audio/wav,audio
 tsiin-na-un-01,tsìín ná'un,rat,tsiin na'un,tsìín ná'un,,noun,wild animals,,CVV CV?V,glottalized,rat,rata,RDC,Said,objects/rata_2.wav,audio/wav,audio
 tsiintojo-01,tsiìntójǒ,tarantula,tsiintojo,tsiìntójǒ,[͡tsʲìⁿtóʰǒ],noun,wild animals,LHR,CVCVhV,aspirated,tarantula,tarantula,JGO,,,,
@@ -1315,7 +1315,7 @@ xijin-ra-andres-01,xijǐn rà andrés,ni,xijin ra andres,xijǐn rà andrés,,,de
 xijni-01,xijnǐ,head,xijni,xijnǐ,[ʃiʰnǐ],noun,body parts and the body,MMR,CVCVCV,aspirated,head,cabeza,NGC,,objects/cabeza.wav,audio/wav,audio
 xita-01,xîtǎ,tortilla,xita,xîtǎ,[ʃîʰtǎ],noun,"food, drink, and cooking",FR,CVhCV,pre-aspirated,tortilla,tortilla,NGC,,objects/tortilla.wav,audio/wav,audio
 xitsin-01,xitsǐn,nose,xitsin,xitsǐn,[ʃiʰt͡sĩ̌],noun,body parts and the body,MR,CVCV,pre-aspirated,nose,nariz,NGC,,objects/nariz.wav,audio/wav,audio
-xijvi-01,xîjvǐ,sleeping mat,xijvi,xîjvǐ,[ʃîʰβǐ],noun,tools and implements,HR,CVhCV,aspirated,sleeping mat,petate,NGC, sound file quality kind of bad,objects/petate.wav,audio/wav,audio
+xijvi-01,xîjvǐ,sleeping mat,xijvi,xîjvǐ,[ʃîʰβǐ],noun,tools and implements,HR,CVhCV,aspirated,sleeping mat,petate,NGC,sound file quality kind of bad,objects/petate.wav,audio/wav,audio
 xika-01,xíka,far,xika,xíka,[ʃíʰka],adjective,directions and locations,HM,CVCV,modal,far,lejos,,,objects/lejos.wav,audio/wav,audio
 xikantu-u-01,xìkantú'ù,lie down ,xikantu'u,xìkantú'ù,[ʃìkãtúˀù],verb (completive),Actions and activities,LMHL,CVCVCV?V,glottalized,lie down ,acostarse ,,,,,
 xiko-01,xiko,Twenty,xiko,xiko,[ʃiʰko],noun,numbers,,CVCV,modal,Twenty,Veinte,JGO,,,,
@@ -1373,7 +1373,7 @@ ya-kuiji-vali-01,yá kuîjǐ vālì,small green chili,ya kuiji vali,yá kui�
 ya-a-01,yá'a,pass/move on ,ya'a,yá'a,[jáˀa],verb (continuative),Actions and activities,HM,CV?V,glottalized,pass/move on ,pasar ,,,,,
 ya-a-02,yà'a,pass/move on ,ya'a,yà'a,[jàˀa],verb (potential),Actions and activities,LM,CV?V,glottalized,pass/move on ,pasar ,,,,,
 ya-a-03,yá'a,brown,ya'a,yá'a,[jáˀā],noun,colors,HM,CV?V,glottalized,brown,café,,,objects/café_(color).wav,audio/wav,audio
-ya-a-04,yà'á,orange (color),ya'a,yà'á,[jàˀá],noun,colors,LH,CV?V,glottalized,orange (color),anaranjado,NGC,timestamp 1:44,,,
+ya-a-04,yà'á,orange (color),ya'a,yà'á,[jàˀá],noun,colors,LH,CV?V,glottalized,orange (color),anaranjado,NGC,timestamp 1:44 [unresolved media reference: 'Cómo se dice colores en Mixteco:La comadre Oaxaquena (youtube.com)'],,,
 ya-a-05,ya'á,orange (color),ya'a,ya'á,[jāˀá],adjective,descriptions,MH,CV?V,glottalized,orange (color),naranja (color),,,,,
 ya-a-06,ya'ǎ,chili,ya'a,ya'ǎ,[jāˀǎ],noun,"food, drink, and cooking",MR,CV?V,glottalized,chili,chile,NGC,,objects/chile.wav,audio/wav,audio
 ya-a-07,yá'à,coffee,ya'a,yá'à,[jáˀà],noun,"food, drink, and cooking",HL,CV?V,glottalized,coffee,café,NGC,,objects/café.wav,audio/wav,audio
@@ -1399,7 +1399,7 @@ yata-01,yâtá,old man,yata,yâtá,[jâʰtá],noun,people,FH,CVhCV,pre-asp
 yata-02,yatá,old,yata,yatá,[jāʰtá],adjective,states of being,MH,CVhCV,pre-aspirated,old,viejo,,,objects/viejo.wav,audio/wav,audio
 yajun-01,yájǔn,your tongue,yajun,yájǔn,[jâʰũ̌],noun,body parts and the body,HR,CVhV,aspirated,your tongue,tu lengua,LA,Said,objects/tu_lengua.wav,audio/wav,audio
 yajvi-01,yajvǐ,maguey,yajvi,yajvǐ,[jaʰβǐ],noun,plants and trees,MR,CVhCV,aspirated,maguey,maguey,RDC,Said,objects/maguey.wav,audio/wav,audio
-yajvi-02,jajvi,aloe,yajvi,jajvi,[jaʰβi],noun,plants and trees,MM,CVhCV,pre-aspirated,aloe,sabila,NGC,,https://youtu.be/WetShLb64Mg?si=wbwwg3akHrnYxjeh&t=119 1:59-2:01,text/html,record
+yajvi-02,jajvi,aloe,yajvi,jajvi,[jaʰβi],noun,plants and trees,MM,CVhCV,pre-aspirated,aloe,sabila,NGC,[media cell had extra text: '1:59-2:01'],https://youtu.be/WetShLb64Mg?si=wbwwg3akHrnYxjeh&t=119,text/html,record
 yakua-01,yakuà,dirty,yakua,yakuà,[jāʰkʷà],adjective,states of being,ML,CVhCV,pre-aspirated,dirty,sucio,,,objects/sucio.wav,audio/wav,audio
 yakuin-01,yākuǐn,armadillo,yakuin,yākuǐn,[jākʷĩ̌],noun,wild animals,MR,CVCV,modal,armadillo,armadillo,JGO,,,,
 yatsin-01,yatsin,close,yatsin,yatsin,[jat͡sʲn],adjective,descriptions,MM,CVCC,modal,close,cerca,,,,,
@@ -1491,8 +1491,8 @@ yutsi-02,yutsí,sand,yutsi,yutsí,[jut͡sí],noun,landscape and environment,M
 ka-a-07,ká'a,anus or vagina,ka'a,ká'a,[káˀa],noun,body parts and the body,HM,CV?V,glottalized,anus or vagina,ano o vagina,NGC,,objects/ano_o_vagina.wav,audio/wav,audio
 na-ve-i-01,nà ve'i,family,na ve'i,nà ve'i,[nà βeˀi],noun,people,L MM,CV CV?V,glottalized,family,familia,NGC,,objects/familia.wav,audio/wav,audio
 na-na-ka-an-01,ña ná ka'an,religion,na na ka'an,ña ná ka'an,[ɲa ná kaˀã],noun,other,M H MM,CV CV CV?V,glottalized,religion,religión,NGC,,objects/religión.wav,audio/wav,audio
-tsii-tsika-koni-01,tsìì tsiká koni,I caught fish yesterday,tsii tsika koni,tsìì tsiká koni,[tsìì t͡sʲká koni],verb (completive),Actions and activities,LL H MM,CCVV CCCV CVCV,modal,I caught fish yesterday,agarré pescado ayer,NGC,,,,
-tsii-tsika-vitsin-01,tsíì tsiká vitsin,I caught a fish just now,tsii tsika vitsin,tsíì tsiká vitsin,[tsíì t͡sʲká vitsin],verb (continuative),Actions and activities,LL H MM,CCVV CCCV CVCCVC,modal,I caught a fish just now,agarro pescado ahora,NGC,,,,
+tsii-tsika-koni-01,tsìì tsiká koni,I caught fish yesterday,tsii tsika koni,tsìì tsiká koni,[tsìì t͡sʲká koni],verb (completive),Actions and activities,LL H MM,CCVV CCCV CVCV,modal,I caught fish yesterday,agarré pescado ayer,NGC,[unresolved media reference: 'agarrar'],,,
+tsii-tsika-vitsin-01,tsíì tsiká vitsin,I caught a fish just now,tsii tsika vitsin,tsíì tsiká vitsin,[tsíì t͡sʲká vitsin],verb (continuative),Actions and activities,LL H MM,CCVV CCCV CVCCVC,modal,I caught a fish just now,agarro pescado ahora,NGC,[unresolved media reference: 'agarrar'],,,
 tsii-kitsi-xi-in-yo-o-01,tsìí kitsi xí'in yo'ǒ,to catch an animal with a rope,tsii kitsi xi'in yo'o,tsìí kitsi xí'in yo'ǒ,[tsìí t͡sʲká ʃíˀĩ joˀǒ],verb,Actions and activities,LH H HM MR,CCVV CCCV CV?V CV?V,glottalized,to catch an animal with a rope,agarrar animal con cuerda,NGC,,objects/agarrar_animal_con_cuerda.wav,audio/wav,audio
 panu-01,pañu,,pañu,pañu,[paɲu],noun,,MM,CVCV,modal,,reboso,NGC,,,,
 lo-o-02,lo'o,little,lo'o,lo'o,[loˀo],adjective,descriptions,MM,CV?V,glottalized,little,poquito,NGC,,objects/poquito.wav,audio/wav,audio
